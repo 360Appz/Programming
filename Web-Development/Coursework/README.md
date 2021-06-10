@@ -24,4 +24,4 @@ Link: https://joel-cos-1001.000webhostapp.com/assign3/index.php
 
 
 
-## echnical Information
+## Technical Information
