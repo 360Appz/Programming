@@ -26,6 +26,6 @@ Youtube:
 
 ## Technical Information
 #### **Further references**
-https://www.youtube.com/watch?v=1_cUgpWqS0Y&list=PLhusV3ueKvurI9PujkrQxMEahYTqDaAFQ (MVVM tutorial)
-https://github.com/SingletonSean/wpf-tutorials/tree/master/SwitchingViewsMVVM (MVVM views)
-https://www.youtube.com/watch?v=OJygSefHVr0&ab_channel=BinaryBunny (UI)
+* https://www.youtube.com/watch?v=1_cUgpWqS0Y&list=PLhusV3ueKvurI9PujkrQxMEahYTqDaAFQ (MVVM tutorial)
+* https://github.com/SingletonSean/wpf-tutorials/tree/master/SwitchingViewsMVVM (MVVM views)
+* https://www.youtube.com/watch?v=OJygSefHVr0&ab_channel=BinaryBunny (UI)
