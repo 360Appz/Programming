@@ -15,7 +15,7 @@ This WPF application demonstrates the MVVM (Model-View-ViewModel) model for swit
 ## Demo
 The look and usage of the app can be found in the link below
 
-**Youtube:**
+**Youtube:** https://www.youtube.com/watch?v=PfGtiFr_Kyc
 
 
 
