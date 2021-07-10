@@ -1,1 +1,1 @@
-images for the layout of the application
+Images for the layout of the application
