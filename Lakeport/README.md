@@ -18,9 +18,6 @@ The look and usage of the app can be found in the link below
 **Youtube:** https://www.youtube.com/watch?v=PfGtiFr_Kyc
 &nbsp;
 
-#### **App Images**
-![App Image 1](https://github.com/360Appz/Programming/blob/main/Lakeport/Images/1.%20MainView.PNG)
-![App Image 2](https://github.com/360Appz/Programming/blob/main/Lakeport/Images/2.%20RentView.PNG)
 
 
 ## Technologies Used:
@@ -29,11 +26,9 @@ The look and usage of the app can be found in the link below
 
 
 
-
 ## Problems
 * View dimensions are hard-coded
 * Adaptive views to different screen sizes have not been included. Only works with the 1024 x 768 resolution
-
 
 
 
