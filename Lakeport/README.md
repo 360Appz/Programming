@@ -17,8 +17,8 @@ The look and usage of the app can be found in the link below
 
 **Youtube:** https://www.youtube.com/watch?v=PfGtiFr_Kyc
 
-App Images
-![](https://github.com/360Appz/Programming/blob/main/Lakeport/Images/1.%20MainView.PNG)
+
+![App Image 1](https://github.com/360Appz/Programming/blob/main/Lakeport/Images/1.%20MainView.PNG)
 
 
 ## Technologies Used:
