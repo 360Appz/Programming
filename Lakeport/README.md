@@ -33,6 +33,8 @@ The look and usage of the app can be found in the link below
 
 
 ## Technical Information
+* Visual Studio 2019
+* .NET 4.7.2
 #### **Further references**
 * https://www.youtube.com/watch?v=1_cUgpWqS0Y&list=PLhusV3ueKvurI9PujkrQxMEahYTqDaAFQ (MVVM tutorial)
 * https://github.com/SingletonSean/wpf-tutorials/tree/master/SwitchingViewsMVVM (MVVM views)
