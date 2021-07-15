@@ -10,7 +10,7 @@ Welcome !! This the main repository of all my programming projects
  * **Web Development** - Coursework : Web Hosting Service Provider
  * **Web Development** - Final Assessment : Seminar booking Provider
 &nbsp;
-&nbsp;
+
 ## Other Computer Science repositories
 #### (Programming related)
 * Data Science & Machine Learning
