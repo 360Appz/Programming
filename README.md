@@ -9,6 +9,9 @@ Welcome !! This the main repository of all my programming projects
  * **LakePort** - A WPF navigation app 
  * **Web Development** - Coursework : Web Hosting Service Provider
  * **Web Development** - Final Assessment : Seminar booking Provider
+&nbsp;
+## Other Computer Science topics
+* Data Science & Machine Learning
  
 
 
