@@ -24,3 +24,4 @@ Link: https://joel-cos-1001.000webhostapp.com/FinalAssessment/index.php
 ## Technical Information
 * Visual Studio Code
 * XAMPP
+* 000WebHosting
