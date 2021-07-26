@@ -21,9 +21,11 @@ Link: https://joel-cos-1001.000webhostapp.com/assign3/index.php
 
 
 ## Bugs
+* Has some issues with credit card validation
 
 
 
 ## Technical Information
 * Visual Studio Code
 * XAMPP
+* 000WebHosting
