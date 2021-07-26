@@ -20,8 +20,10 @@ Link: https://joel-cos-1001.000webhostapp.com/assign3/index.php
 * MySql
 
 
-## Problems
+## Bugs
 
 
 
 ## Technical Information
+* Visual Studio Code
+* XAMPP
