@@ -10,6 +10,8 @@ To access the website, the link has been attached below
 
 ## Demo
 Link: https://joel-cos-1001.000webhostapp.com/assign3/index.php
+* (*At times loading can be from 3-6mins because 000Webhost is free, because bandwith is limited*)
+
 
 
 ## Technologies Used:
