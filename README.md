@@ -9,6 +9,7 @@ Welcome !! This the main repository of all my programming projects
  * **LakePort** - A WPF navigation app 
  * **Web Development** - Coursework : Web Hosting Service Provider
  * **Web Development** - Final Assessment : Seminar booking Provider
+ * +Financial Programming** - Projects based on Practical C++ for Financial Programming book
 &nbsp;
 
 ## Other Computer Science repositories
