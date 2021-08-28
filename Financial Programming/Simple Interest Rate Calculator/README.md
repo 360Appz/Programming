@@ -21,6 +21,8 @@ This is a console based application designed to calculate the growth a principal
 * Visual Studio Code
 * Compiler (MingW, G++, Gdb, msSys64)
 
+When compiling, have to use G++. To name output exe, use -o (i.e. **g++ main.cpp -o program.exe**)
+
 #### **References**
 * Practical C++ Financial Programming by Carlos Oliveira
 
