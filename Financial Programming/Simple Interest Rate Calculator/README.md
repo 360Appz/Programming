@@ -8,6 +8,7 @@ This is a console based application designed to calculate the growth a principal
 ## Demo
 
  ![](https://github.com/360Appz/Programming/blob/main/Financial%20Programming/Simple%20Interest%20Rate%20Calculator/Demo/Capture.PNG) {padding-top:5px } 
+ <br>
  Interest Rate = 8% Principal = 10000 
 
 
