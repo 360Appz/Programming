@@ -14,7 +14,7 @@ int main(int argc, const char* argv[])
 		cout << "usage: progName <interest rate> <value>" << endl;
 		return 1;
 	}
-	double rate = atof(argv[1]);
+	double rate = atof(argv[1]);//Interprets string as float and returns a double value
 	double value = atof(argv[2]);
 
 	IntRateCalculator irCalculator(rate);
