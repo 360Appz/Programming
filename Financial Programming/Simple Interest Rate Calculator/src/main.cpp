@@ -6,6 +6,7 @@
 
 using namespace std;
 
+// Main/Driver function receives parameters passed to the program
 int main(int argc, const char* argv[])
 {
 	if (argc != 3)
