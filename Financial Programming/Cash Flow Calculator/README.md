@@ -1,7 +1,10 @@
 # Cash Flow Calculator
 
 ## Description
-This is a console based application designed to calculate the growth of a principal on a compound interest rate.
+In fixed income investments, cash flow between two parties is key. The cash flow is a periodic payments during a specified time. Common examples include a loan, where a customer pays the bank over a period of time. Inverse of compoounding is discount. THe present value of a payment in the future needs to be discounted by the interest rate that would be applied to the amount.
+
+
+This is a console based application designed to calculate cash flow
 
 
 
@@ -9,8 +12,7 @@ This is a console based application designed to calculate the growth of a princi
 
  ![](https://github.com/360Appz/Programming/blob/main/Financial%20Programming/Cash%20Flow%20Calculator/Demo/Result.PNG) {padding-top:5px } 
  <br>
- **Interest Rate** = 5% **Principal** = 1000 **Compounding period** : 4 years 
-
+ **Interest Rate** = 8% **Amount** = 200 - (-1000) **Time perioud** : Up  to 4 years 
 
 
 
