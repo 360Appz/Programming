@@ -9,7 +9,7 @@ This is a console based application designed to calculate the growth of a princi
 
  ![](https://github.com/360Appz/Programming/blob/main/Financial%20Programming/Compound%20Interest%20Calculator/Demo/2.png) {padding-top:5px } 
  <br>
- **Interest Rate** = 5% **Principal** = 1000 Compounding period : 4 years 
+ **Interest Rate** = 5% **Principal** = 1000 **Compounding period** : 4 years 
 
 
 
