@@ -32,11 +32,11 @@ The books shows
 * 3 500
 * 4 -1000
 * -1
-** **value 190.476
-value 272.109
-value 431.919
-value -822.702
-The present value is 71.8014 ****
+* **value 190.476
+* value 272.109
+* value 431.919
+* value -822.702
+* The present value is 71.8014 ****
 
 Therefore, there is some discrepancies
 
