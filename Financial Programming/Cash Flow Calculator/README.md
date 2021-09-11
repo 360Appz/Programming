@@ -27,11 +27,11 @@ When compiling, have to use G++. To name output exe, use -o (i.e. **g++ main.cpp
 
 * ### Bugs
 The books shows 
-1 200
-2 300
-3 500
-4 -1000
--1
+* 1 200
+* 2 300
+* 3 500
+* 4 -1000
+* -1
 ** **value 190.476
 value 272.109
 value 431.919
