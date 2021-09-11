@@ -40,7 +40,7 @@ The books shows
 
 Therefore, there is some discrepancies
 
-#### **References**
+## **References**
 * Practical C++ 20 Financial Programming by Carlos Oliveira
 
 
