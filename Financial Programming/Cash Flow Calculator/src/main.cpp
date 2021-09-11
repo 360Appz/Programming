@@ -18,7 +18,7 @@ int main(int argc, const char* argv[])
     {
         int period;
         cin >> period;
-        if(period== -1)
+        if(period== -1) //Breaks the loop
         {
             break;
         }
