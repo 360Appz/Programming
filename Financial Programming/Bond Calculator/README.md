@@ -10,7 +10,7 @@ This is a console based application designed to calculate cash flow
 
 ## Demo
 
- ![](https://github.com/360Appz/Programming/blob/main/Financial%20Programming/Cash%20Flow%20Calculator/Demo/Result.PNG) {padding-top:5px } 
+ ![](https://github.com/360Appz/Programming/blob/main/Financial%20Programming/Bond%20Calculator/Demo/Capture.PNG) {padding-top:5px } 
  <br>
  **Interest Rate** = 8% **Amount** = 200 - (-1000) **Time period** : Up  to 4 years 
 
