@@ -12,7 +12,7 @@ This is a console based application designed to calculate cash flow
 
  ![](https://github.com/360Appz/Programming/blob/main/Financial%20Programming/Bond%20Calculator/Demo/Capture.PNG) {padding-top:5px } 
  <br>
- **Interest Rate** = 8% **Amount** = 200 - (-1000) **Time period** : Up  to 4 years 
+ **Institution = Sovereign Interest Rate** = 8% **Amount** = 100,000 **Coupon** = 5000 **Time period** : Up  to 4 years 
 
 
 
