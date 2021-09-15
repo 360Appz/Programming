@@ -1,7 +1,7 @@
 # Bond Calculator
 
 ## Description
-In fixed income investments, bonds are debt instruments used by investors. These instruments are usually offered by large corporations/ governments.This instrument
+In fixed income investments, bonds are debt instruments used by investors. These instruments are usually offered by large corporations/ governments. This instrument
 is used to attract cash investments that will be repaid over the long term, normally between 5-30 years. In return, the investors gets a fixed amount (coupon value) over the tenure of the bond until maturity. On maturity, the investor will get back his principal invested. Provided that the the issuer does not go bankrupt.
 
 
