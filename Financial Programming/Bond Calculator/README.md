@@ -11,7 +11,7 @@ This is a console based application designed to calculate the bond's return rate
 
 ## Demo
 
- ![](https://github.com/360Appz/Programming/blob/main/Financial%20Programming/Bond%20Calculator/Demo/Capture.PNG) {padding-top:5px } 
+ ![](https://github.com/360Appz/Programming/blob/main/Financial%20Programming/Bond%20Calculator/Demo/Result.PNG) {padding-top:5px } 
  <br>
  **Institution** = Sovereign &nbsp;  **Amount** = 100,000 &nbsp;  **Coupon** = 5000 &nbsp; **Time period** : 20 years 
 
