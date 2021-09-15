@@ -1,10 +1,11 @@
 # Bond Calculator
 
 ## Description
-In fixed income investments, cash flow between two parties is key. The cash flow is a set of periodic payments during a specified time. Common examples include a loan, where a customer pays the bank over a period of time. Inverse of compoounding is discount. THe present value of a payment in the future needs to be discounted by the interest rate that would be applied to the amount.
+In fixed income investments, bonds are debt instruments used by investors. These instruments are usually offered by large corporations/ governments.This instrument
+is used to attract cash instruments that will be repaid over the long term, normally between 5-30 years. In return, the investors gets a fixed amount (coupon value) over the tenure of the bond until maturity. On maturity, the investor will get back his principal invested. Provided that the the issuer does not go bankrupt.
 
 
-This is a console based application designed to calculate cash flow
+This is a console based application designed to calculate the bond return rate
 
 
 
@@ -12,7 +13,7 @@ This is a console based application designed to calculate cash flow
 
  ![](https://github.com/360Appz/Programming/blob/main/Financial%20Programming/Bond%20Calculator/Demo/Capture.PNG) {padding-top:5px } 
  <br>
- **Institution** = Sovereign &nbsp;  **Amount** = 100,000 &nbsp;  **Coupon** = 5000 **Time period** : Up  to 4 years 
+ **Institution** = Sovereign &nbsp;  **Amount** = 100,000 &nbsp;  **Coupon** = 5000 &nbsp; **Time period** : 20 years 
 
 
 
