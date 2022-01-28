@@ -12,7 +12,8 @@ Welcome !! This the main repository of all my programming projects
  * **Web Development** - Final Assessment : Seminar booking Provider
  * **MEAN Stack App** - https://github.com/360Appz/Contact-App/tree/Backend (A web-based contact saving app)
  * **Android App** - https://github.com/360Appz/Android-Projects - Coursework for mobile app development
- * **Vue.js CRUD App** = https://github.com/360Appz/todolist/tree/main - Uses state management 
+ * **Vue.js CRUD App** - https://github.com/360Appz/todolist/tree/main - Uses state management 
+ * **PokeApi App** - https://github.com/360Appz/Pokemon - Uses the PokeApi REST api to fetch data and display to the user
  
 &nbsp;
 
