@@ -14,6 +14,7 @@ Welcome !! This the main repository of all my programming projects
  * **Android App** - https://github.com/360Appz/Android-Projects - Coursework for mobile app development
  * **Vue.js CRUD App** - https://github.com/360Appz/todolist/tree/main - Uses state management 
  * **PokeApi App** - https://github.com/360Appz/Pokemon - Uses the PokeApi REST api to fetch data and display to the user
+ * **Tesla UI Clone** https://github.com/360Appz/TeslaClone - Uses React Native to emulate the user interface of the Tesla website.
  
 &nbsp;
 
