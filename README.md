@@ -5,7 +5,7 @@
 This the main repository of all programming projects undertaken
 
 ## Directory
-### Web Porgramming
+### Web Programming (HTML, CSS, Javascript)
  * **Web Development** - Coursework : Web Hosting Service Provider
  * **Web Development** - Final Assessment : Seminar booking Provider
 ### React Native
