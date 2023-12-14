@@ -1,6 +1,6 @@
 # Programming
 
-### Web Programming (HTML, CSS, Javascript)
+### Web Programming (HTML, CSS, Javascript, PHP)
  * **Web Development** - Coursework : Web Hosting Service Provider
  * **Web Development** - Final Assessment : Seminar booking Provider
 ### React + Laravel
