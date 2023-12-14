@@ -1,13 +1,5 @@
 # Programming
 
-
-## Description
-This the main repository of all programming projects undertaken
-
-## Directory
-
-### UI/UX Design
-* https://github.com/360Appz/Research-Papers/tree/main/UI%20%26%20UX
 ### Web Programming (HTML, CSS, Javascript)
  * **Web Development** - Coursework : Web Hosting Service Provider
  * **Web Development** - Final Assessment : Seminar booking Provider
@@ -31,6 +23,8 @@ This the main repository of all programming projects undertaken
 ## Other Computer Science repositories
 #### (Programming related)
 * Data Science & Machine Learning - https://github.com/360Appz/Data-Science-Machine-Learning
- 
+
+#### UI/UX Design
+* https://github.com/360Appz/Research-Papers/tree/main/UI%20%26%20UX
 
 
