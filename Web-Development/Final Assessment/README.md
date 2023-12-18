@@ -6,8 +6,8 @@ This website was part of my final assessment for my Web Development subject. The
 
 
 ## Demo
-Link: https://joel-cos-1001.000webhostapp.com/FinalAssessment/index.php &nbsp;
-* (*At times loading can be from 3-6mins because 000Webhost is free, because bandwith is limited*)
+Link: https://seminar-booking.000webhostapp.com/ &nbsp;
+
 
 
 ## Technologies Used:
