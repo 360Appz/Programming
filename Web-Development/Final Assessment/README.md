@@ -8,7 +8,8 @@ This website was part of my final assessment for my Web Development subject. The
 ## Demo
 Link: https://seminar-booking.000webhostapp.com/ &nbsp;
 
-
+## Screenshot
+<img src="https://github.com/360Appz/Programming/blob/main/Web-Development/Final%20Assessment/Images/Capture1.PNG"/>
 
 ## Technologies Used:
 * HTML
